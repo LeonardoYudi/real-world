@@ -1,4 +1,6 @@
- {
+{
+ "events":[
+    {
     id: 5928101,
     category:'',
     title:' Cat Adoption Day - 1',
@@ -31,3 +33,5 @@
     petsAllorwed:true,
     organizer:'Kat3'
   }
+ ]
+}
