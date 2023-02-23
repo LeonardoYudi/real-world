@@ -2,36 +2,36 @@
  "events":[
     {
     "id": 5928101,
-    "category":'',
-    "title":' Cat Adoption Day - 1',
-    "description":'',
-    "location":'',
-    "date":'January 28, 2023',
-    "time":'12:00',
+    "category":"animal",
+    "title":"Cat Adoption Day - 1",
+    "description":"Find your new feline friend at this event.",
+    "location":"Meow Town",
+    "date":"January 28, 2023",
+    "time":"12:00",
     "petsAllorwed":true,
-    "organizer":'Kat'
+    "organizer":"Kat"
+  },
+  {
+   "id": 5928101,
+    "category":"animal",
+    "title":"Cat Adoption Day - 2",
+    "description":"Find your new feline friend at this event.",
+    "location":"Meow Town",
+    "date":"January 28, 2023",
+    "time":"12:00",
+    "petsAllorwed":true,
+    "organizer":"Kat"
   },
   {
     "id": 5928101,
-    "category":'',
-    "title":' Cat Adoption Day - 2,
-    "description":'',
-    "location":'',
-    "date":'January 28, 2023',
-    "time":'12:00',
+    "category":"animal",
+    "title":"Cat Adoption Day - 3",
+    "description":"Find your new feline friend at this event.",
+    "location":"Meow Town",
+    "date":"January 28, 2023",
+    "time":"12:00",
     "petsAllorwed":true,
-    "organizer":'Kat'
-  },
-  {
-    "id": 5928101,
-    "category":'',
-    "title":' Cat Adoption Day - 3',
-    "description":'',
-    "location":'',
-    "date":'January 28, 2023',
-    "time":'12:00',
-    "petsAllorwed":true,
-    "organizer":'Kat'
+    "organizer":"Kat"
   }
  ]
 }
